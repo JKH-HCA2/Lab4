@@ -1,0 +1,17 @@
+.jumbotron {
+    text-align: center;
+    height: 200px;
+}
+
+.jumbotron h1 {
+    font-size: 70px;
+    margin-top: -65px;
+}
+
+.jumbotron h2 {
+    font-style: italic;
+    margin-top: 55px;
+}
+ .container {
+    width: 350px;
+ }
